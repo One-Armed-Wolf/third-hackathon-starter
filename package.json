@@ -76,7 +76,7 @@
     "passport-openidconnect": "^0.1.2",
     "passport-steam-openid": "^1.1.8",
     "patch-package": "^8.0.1",
-    "pdfjs-dist": "^5.4.394",
+    "pdfjs-dist": "^5.4.449",
     "pug": "^3.0.3",
     "sass": "^1.94.2",
     "stripe": "^20.0.0",
@@ -100,7 +100,7 @@
     "husky": "^9.1.7",
     "mocha": "^11.7.5",
     "mongodb-memory-server": "^10.3.0",
-    "prettier": "^3.7.2",
+    "prettier": "^3.7.3",
     "sinon": "^21.0.0",
     "supertest": "^7.1.4"
   },
